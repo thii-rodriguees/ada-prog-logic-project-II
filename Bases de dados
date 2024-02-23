@@ -1,0 +1,8 @@
+ca-2020-01.csv filter=lfs diff=lfs merge=lfs -text
+ca-2020-02.csv filter=lfs diff=lfs merge=lfs -text
+ca-2021-01.csv filter=lfs diff=lfs merge=lfs -text
+ca-2021-02.csv filter=lfs diff=lfs merge=lfs -text
+ca-2022-01.csv filter=lfs diff=lfs merge=lfs -text
+ca-2022-02.csv filter=lfs diff=lfs merge=lfs -text
+ca-2023-01.csv filter=lfs diff=lfs merge=lfs -text
+ca-2023-02.csv filter=lfs diff=lfs merge=lfs -text
